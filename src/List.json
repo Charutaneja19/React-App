@@ -1,0 +1,39 @@
+
+ [
+    {
+        "id": 1,
+        "name": "Charu",
+        "email": "charutaneja02@gmail.com",
+        "password": "charu123",
+        "role": "User"
+    },
+    {
+        "id": 2,
+        "name": "Prasann",
+        "email": "prasannsethi02@gmail.com",
+        "password": "prasann123",
+        "role": "Admin"
+    },
+    {
+        "id": 3,
+        "name": "Ram",
+        "email": "ram01@gmail.com",
+        "password": "ram123",
+        "role": "Manager"
+    },
+    {
+        "id": 4,
+        "name": "Shreyansh",
+        "email": "shreyansh01@gmail.com",
+        "password": "shreyansh123",
+        "role": "User"
+    },
+    {
+        "id": 5,
+        "name": "Satvik",
+        "email": "satvik02@gmail.com",
+        "password": "satvik123",
+        "role": "User"
+    }
+ ]
+
